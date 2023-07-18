@@ -1,0 +1,36 @@
+#header{
+    text-align: center;
+    height: 25px;
+    background-color:black;
+    font-weight: bold;
+    color: white;
+    position: sticky;
+    
+    
+    
+   
+     
+}
+#links{
+    text-align: center; 
+     background-color:black;
+    position: sticky;
+    top:0;
+     
+    
+}
+#links :hover{
+    color:blue;
+    text-decoration: underline;
+}
+.link{
+    margin: 20px;
+    font: 15px;
+    text-decoration: none;
+    color: white;
+   
+ 
+}
+iframe{
+    border: 0;
+}
